@@ -1,0 +1,55 @@
+/* Plugin styles */
+.tmbb-wrap {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.tmbb-title {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.tmbb-filter {
+    margin-bottom: 20px;
+}
+
+.tmbb-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tmbb-table th,
+.tmbb-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.tmbb-table th {
+    font-weight: bold;
+}
+
+.tmbb-pagination {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.tmbb-pagination a,
+.tmbb-pagination .active {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0 5px;
+    background-color: #f1f1f1;
+    color: #333;
+    text-decoration: none;
+}
+
+.tmbb-pagination .active {
+    font-weight: bold;
+}
+
+.tmbb-submit {
+    margin-top: 20px;
+}
